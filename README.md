@@ -1,2 +1,2 @@
 # grid-na-pratica
-aprendendo como utilizar gri no css de maneira prática
+aprendendo como utilizar grid no css de maneira prática
